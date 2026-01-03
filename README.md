@@ -22,10 +22,10 @@ The cart shows all the items that have been added to the cart and allows the use
 
 ## Contributing 🤝
 
-If you have any improvements to the UI, please create a pull request and I would be happy to check that out. If you have more project ideas, feel free to share that with me and I would do my best to put that to code. You can reach out to me at https://www.linkedin.com/in/navendup/
+If you have any improvements to the UI, please create a pull request and I would be happy to check that out. If you have more project ideas, feel free to share that with me and I would do my best to put that to code. You can reach out to me at [https://www.linkedin.com/in/navendup/](https://www.linkedin.com/in/kishorereddy1212/)
 
 ## My Projects 
 
-Do check out my other projects in the github repo. Check out my portfolio at [navendu.me](https://navendu.me)
+
 
 Happy Coding!
